@@ -1,4 +1,3 @@
-# mipaginaweb
 <!DOCTYPE HTML>
 
 <html>
