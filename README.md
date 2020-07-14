@@ -14,7 +14,6 @@
           body {
             font-size: 16px;
             font-style: italic;
-            
         }
         h1 {
             color: rgb(20, 15, 11);
